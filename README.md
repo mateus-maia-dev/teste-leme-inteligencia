@@ -12,6 +12,14 @@ Esta aplicação irá realizar o cadastro de clientes e pedidos.
 ### Para rodar as migrations e persistir as tabelas no banco
 - `npm run typeorm migration:run`
 
+### Query SQL para inserção de dados na tabela 
+```
+INSERT INTO pedido_status
+    (descricao)
+VALUES
+    ('Solicitado'), ('Concluído'), ('Cancelado')
+```
+
 ## Configuração do servidor(pasta backend)
 #### Criando o arquivo .env
 Essa aplicação utiliza-se de banco de dados relacional através do gerenciador de bancos PostgreSQL. Logo, o exemplo dado para a configuração será no caso do seu uso.
