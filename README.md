@@ -12,7 +12,7 @@ Esta aplicação irá realizar o cadastro de clientes e pedidos.
 ### Para rodar as migrations e persistir as tabelas no banco
 - `npm run typeorm migration:run`
 
-### Query SQL para inserção de dados na tabela 
+### Query SQL para inserção de dados na tabela pedido_status
 ```
 INSERT INTO pedido_status
     (descricao)
