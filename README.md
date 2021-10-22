@@ -2,6 +2,7 @@
 
 Esta aplicação irá realizar o cadastro de clientes e pedidos.
 
+#### Snippet da api da aplicação no Insomnia, no arquivo `insomnia.json`
 
 ### Para rodar a aplicação
 #### Clone do repositório
