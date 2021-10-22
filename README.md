@@ -9,6 +9,9 @@ Esta aplicação irá realizar o cadastro de clientes e pedidos.
 #### Inicialização do módulos e dependências
 - `npm install` ou `yarn install`
 
+### Para rodar as migrations e persistir as tabelas no banco
+- `npm run typeorm migration:run`
+
 ## Configuração do servidor(pasta backend)
 #### Criando o arquivo .env
 Essa aplicação utiliza-se de banco de dados relacional através do gerenciador de bancos PostgreSQL. Logo, o exemplo dado para a configuração será no caso do seu uso.
