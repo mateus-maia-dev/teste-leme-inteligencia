@@ -343,4 +343,24 @@ POST http://localhost:5000/api/upload/
 Não foi feito o upload da imagem da Capa como solicitado no teste.
 
 
- 
+## Front End
+
+### Tela Home
+![image](https://user-images.githubusercontent.com/79460525/138512359-eb2d25a3-02a0-4077-9124-ec221617b802.png)
+
+#### Tela Lista Clientes
+![image](https://user-images.githubusercontent.com/79460525/138512663-259d7597-0001-437f-8f22-fb549c2edd23.png)
+
+
+#### Tela Lista Pedidos
+![image](https://user-images.githubusercontent.com/79460525/138513690-407fa465-f39d-4614-9572-b331972e367f.png)
+
+
+#### Tela Cadastra CLiente
+![image](https://user-images.githubusercontent.com/79460525/138516213-7ecdd324-a3dc-4454-9498-abeeb1f1df4e.png)
+
+![image](https://user-images.githubusercontent.com/79460525/138515670-44a760e0-deb7-4519-8b7d-71729dacf627.png)
+
+
+#### Tela Cadastra Pedidos
+![image](https://user-images.githubusercontent.com/79460525/138516186-e467aa05-4918-4345-82e5-a89a6f806440.png)
