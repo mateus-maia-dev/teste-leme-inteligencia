@@ -6,7 +6,7 @@ Esta aplicação irá realizar o cadastro de clientes e pedidos.
 ### Para rodar a aplicação
 #### Clone do repositório
 #### Inicialização do módulos e dependências
-- `npm init` ou `yarn install`
+- `npm install` ou `yarn install`
 
 ## Configuração do servidor(pasta backend)
 #### Criando o arquivo .env
